@@ -1,0 +1,10 @@
+body{background-color:white}
+h1 {color:#9933CC;font-family:tahoma;font-size:70px;padding:10px;}
+#pic {width:230px;border-style:groove;background-color:white;margin-left:10px;}
+#img {margin:0px;padding:0px;}
+#details {height:200px;background-color:white; }
+p {padding:10px; line-height:25px;text-align:justify}
+section {margin-top:10px}
+span {color:#9933CC; }
+a{text-decoration:none; color:#9933CC}
+td {width:100px}
